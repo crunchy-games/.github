@@ -35,3 +35,6 @@ co-founder's personal [website.](https://StupidLilGoober.github.io)
 | Nathaniel Carlton | Programmer (JS genius) |
 | IDK (anonymous) | Artist |
 | Benjamin Sauter | Music & SFX |
+
+## Licenses, Guidelines, etc.
+[Copying rules](COPYING)
