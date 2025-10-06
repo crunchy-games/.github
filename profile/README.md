@@ -1,4 +1,5 @@
 # CRUNCHY
+![Our logo](crunchy-games.webp)
 
 **CONTACTS**
 All contacts listed are okay ways to contact us.
