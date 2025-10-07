@@ -23,9 +23,9 @@ nickname... she doesn't have a GitHub ), we make some
 random things once in a while.
 
 ## What are we working on?
-Tons of miscellaneous things. We don't really have much
-of a direction as of current, as most of us are unskilled,
-but we are open for suggestions. You can also find the
+We are currently working on an idle game about
+dwarves, mining, and collecting gold.
+
 co-founder's personal [website.](https://StupidLilGoober.github.io)
 
 ## Meet the team
