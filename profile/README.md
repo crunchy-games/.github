@@ -36,5 +36,19 @@ co-founder's personal [website.](https://StupidLilGoober.github.io)
 | IDK (anonymous) | Artist |
 | Benjamin Sauter | Music & SFX |
 
+## Are we chill with modding, forking, etc.?
+Absolutely! Most games have built-in modding support
+through Lua (I, Dom, have been considering Grug for a 
+while), and all of our free games (including demos) are
+open source.
+
+Once we stop working on the game, we will open source
+the game so that people who enjoy the game can continue
+it.
+
+We love the gaming, modding, and programming community. The
+collaboration achieved matches almost no other medium, 
+and that's impressive!
+
 ## Licenses, Guidelines, etc.
 [Copying rules](COPYING)
