@@ -8,6 +8,7 @@ All contacts listed are okay ways to contact us.
 | --- | --- | --- |
 | stupidlilgoober@gmail.com | stupidlilgoober | Dominic Kolp |
 | dthdree14812@gmail.com | the_fred_hehe | David Swarthout |
+| jxi560zty@mozmail.com | NCSources0 | NC |
 
 Also, one of our guys has a YT channel [here](https://youtube.com/@ambailgail?si=ra9xS-KU4PCYLrmI).
 Fair warning, he's kind of an odd ball.
@@ -16,7 +17,7 @@ Crunchy Games is a team of 4 goobers, founded
 by Dominic Kolp ( @stupidlilgoober ) and David
 Swarthout (@QR-cre8tes ) at a school lunch table.
 
-With Dom and Nathaniel ( @NCsources0 ) as programmers,
+With Dom and @NCsources0 as programmers,
 Ben ( @ThisThis48 ) for sound design, David as designer
 and founder ( Dom is co-founder ) and IDK ( that's her
 nickname... she doesn't have a GitHub ), we make some
@@ -33,7 +34,7 @@ co-founder's personal [website.](https://StupidLilGoober.github.io)
 | --- | --- |
 | David Swarthout | Founder |
 | Dominic Kolp | Co-Founder and programmer |
-| Nathaniel Carlton | Programmer (JS genius) |
+| NCSources0 | Programmer (JS genius) |
 | IDK (anonymous) | Artist |
 | Benjamin Sauter | Music & SFX |
 
