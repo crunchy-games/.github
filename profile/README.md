@@ -7,7 +7,7 @@ All contacts listed are okay ways to contact us.
 | Email | Discord | Person |
 | --- | --- | --- |
 | stupidlilgoober@gmail.com | stupidlilgoober | Dominic Kolp |
-| three14812@gmail.com | the_fred_hehe | David Swarthout |
+| dthdree14812@gmail.com | the_fred_hehe | David Swarthout |
 
 Also, one of our guys has a YT channel [here](https://youtube.com/@ambailgail?si=ra9xS-KU4PCYLrmI).
 Fair warning, he's kind of an odd ball.
