@@ -34,7 +34,7 @@ co-founder's personal [website.](https://StupidLilGoober.github.io)
 | --- | --- |
 | David Swarthout | Founder |
 | Dominic Kolp | Co-Founder and programmer |
-| NCSources0 | Programmer (JS genius) |
+| NCSources0 (anonymous) | Web design |
 | IDK (anonymous) | Artist |
 | Benjamin Sauter | Music & SFX |
 
