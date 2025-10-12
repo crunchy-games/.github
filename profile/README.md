@@ -40,8 +40,7 @@ co-founder's personal [website.](https://StupidLilGoober.github.io)
 
 ## Are we chill with modding, forking, etc.?
 Absolutely! Most games have built-in modding support
-through Lua (I, Dom, have been considering Grug for a 
-while), and all of our free games (including demos) are
+through Lua, and all of our free games (including demos) are
 open source.
 
 Once we stop working on the game, we will open source
