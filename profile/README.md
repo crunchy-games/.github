@@ -53,4 +53,4 @@ collaboration achieved matches almost no other medium,
 and that's impressive!
 
 ## Licenses, Guidelines, etc.
-[Copying rules](COPYING)
+[Policies](POLICIES)
