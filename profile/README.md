@@ -1,5 +1,5 @@
 # CRUNCHY
-![Our logo](crunchy-games.webp)
+![Our logo](Crunchy.logo.png)
 
 **CONTACTS**
 
