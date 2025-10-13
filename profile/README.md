@@ -1,5 +1,5 @@
 # CRUNCHY
-![Our logo](Crunchy.logo.png)
+![Our logo](logo.png)
 
 **CONTACTS**
 
