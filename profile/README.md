@@ -38,7 +38,7 @@ co-founder's personal [website.](https://StupidLilGoober.github.io)
 | IDK (anonymous) | Artist |
 | Benjamin Sauter | Music & SFX |
 
-## Are we chill with modding, forking, etc.?
+## Are we chill with modding?
 Absolutely! Most games have built-in modding support
 through Lua, and all of our free games (including demos) are
 open source.
@@ -51,5 +51,16 @@ We love the gaming, modding, and programming community. The
 collaboration achieved matches almost no other medium, 
 and that's impressive!
 
-## Licenses, Guidelines, etc.
+## Policies
 [Policies](POLICIES)
+
+## Tech we use
+Our primary language is C (built using CMake and MinGW) and
+Lua for scripting and config files  so that everyone is capable
+of working on the games.
+
+For the web, we do it the most bog-standard way possible. We raw-dog
+HTML, CSS and JS just as God intended.
+
+
+
