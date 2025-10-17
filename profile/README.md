@@ -4,10 +4,10 @@
 **CONTACTS**
 
 All contacts listed are okay ways to contact us.
-| Email | Discord | Person |
+| Person | Email | Discord |
 | --- | --- | --- |
-| stupidlilgoober@gmail.com | stupidlilgoober | Dominic Kolp |
-| dthdree14812@gmail.com | the_fred_hehe | David Swarthout |
+| Dominic Kolp | stupidlilgoober@gmail.com | stupidlilgoober |
+| David Swarthout | dthdree14812@gmail.com | the_fred_hehe |
 | NCSources0 |
 | Austin |
 
