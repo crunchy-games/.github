@@ -56,8 +56,8 @@ and that's impressive!
 [Policies](POLICIES)
 
 ## Tech we use
-Our primary language is C (built using CMake and MinGW) and
-Lua for scripting and config files  so that everyone is capable
+Our primary language is C and
+Lua for scripting and config filesso that everyone is capable
 of working on the games.
 
 For the web, we do it the most bog-standard way possible. We raw-dog
