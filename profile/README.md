@@ -24,12 +24,6 @@ and founder ( Dom is co-founder ) and IDK ( that's her
 nickname... she doesn't have a GitHub ), we make some
 random things once in a while.
 
-## What are we working on?
-We are currently working on an idle game about
-dwarves, mining, and collecting gold.
-
-co-founder's personal [website](https://StupidLilGoober.github.io).
-
 ## Meet the team
 | Member | Role(s) |
 | --- | --- |
@@ -56,8 +50,8 @@ and that's impressive!
 [Policies](POLICIES)
 
 ## Tech we use
-Our primary language is C and
-Lua for scripting and config filesso that everyone is capable
+Our primary language is C/C++ and
+Lua for scripting and config files. That way, everyone is capable
 of working on the games.
 
 For the web, we do it the most bog-standard way possible. We raw-dog
