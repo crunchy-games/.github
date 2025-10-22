@@ -8,7 +8,6 @@ All contacts listed are okay ways to contact us.
 | --- | --- | --- |
 | Dominic Kolp | stupidlilgoober@gmail.com | stupidlilgoober |
 | David Swarthout | dthdree14812@gmail.com | the_fred_hehe |
-| NCSources0 |
 
 Also, one of our guys has a YT channel [here](https://youtube.com/@ambailgail?si=ra9xS-KU4PCYLrmI). Fair warning, he's kind of an oddball.
 
